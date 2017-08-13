@@ -1,2 +1,1 @@
-# ajaxtchat
-CHAT with AJAX 
+# tchat
